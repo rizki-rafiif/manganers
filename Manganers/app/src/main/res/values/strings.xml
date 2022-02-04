@@ -1,0 +1,161 @@
+<resources>
+    <string name="app_name">Manganers</string>
+    <string name="manganers">manganers</string>
+    <string name="share">share</string>
+    <string name="favorite">favorite</string>
+
+    <string-array name="data_name">
+        <item>Gubug Makan Mang Engking</item>
+        <item>Seafood Haji Soleh</item>
+        <item>Djago Jowo Purwokerto</item>
+        <item>Waroenk Ora Umum</item>
+        <item>Warung ndeso</item>
+        <item>Soto Sampun</item>
+        <item>Umaeh Inyong</item>
+        <item>Buntos Cafe</item>
+        <item>Waroeng Pisa Purwokerto</item>
+        <item>Warunk Upnormal Purwokerto</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Tempat makan dengan pemandangan persawahan, banyak saung atau gazebo yang berada di sekitar kolam. Tempatnya luas dan tempat parkirnya juga, lalu terdapat ikan pada kolamnya. Restoran sunda ini menawarkan suasana makan yang sangat nyaman dengan nuansa alam khas pedesaan. Disini bisa menikmati aneka menu hidangan khas Nusantara khususnya Sunda dengan cita rasa spesial.</item>
+        <item>Restoran makanan yang menyajikan makanan khas laut yang paling populer di Purwokerto. keunikan dari spot yang membuat dikunjungi banyak orang, selain itu cara penyajian yang unik yaitu dengan menggunakan daun pisang sebagai alas kian menambah rasa khas aroma masakan. Harga yang di tawarkan juga relatif lebih terjangkau.</item>
+        <item>Restoran santai di area terbuka dengan dekorasi mewah yang menawarkan makanan dan musik Jawa Klasik. Djago Jowo menawarkan tempat makan dengan nuansa alami meski berada di tengah kota Purwokerto, tepatnya di selatan GOR Satria. Menempati bangunan joglo, selain pilihan tempat duduk, ada juga lesehan yang menggunakan ‘amben atau dipan uniknya untuk air bening, bisa mengambilnya suka – suka di kendi dan untuk yang delivery order atau dibawa pulang menggunakan kemasan ‘besek’ buka dari jam 09.00 wib sampai jam 22.00 wib.</item>
+        <item>Warung atau tempat makan ini sangat populer di kalangan pelajar dan mahasiswa di Purwokerto. Tempat nongkrong yang buka 24 jam ini selalu dijadikan referensi untuk berbagai aktivitas, seperti mengerjakan tugas kuliah, rapat atau hanya sekedar ngobrol santai dengan teman. Sesuai dengan namanya, konsep Waroenk Ora Umum memang berbeda dengan warung kebanyakan. Baik desain tempat maupun menu makanan tidak ada yang menyamai di tempat lain. Tempatnya luas, nyaman, menu makanannya banyak dan harganya pun pas di kantong pelajar</item>
+        <item>Tempat makan satu ini menyediakan makanan khas daerah Purwokerto, sesuai dengan namanya warung ini menyuguhkan suasana khas pedesaan dengan kuliner ala pedesaan seperti nasi, ceker kecap lada hitam, singkong goreng dengan taburan bumbu barbeque, ayam bakar spesial. namun di warung ini  juga menyediakan menu kekinian seperti steak, spaghetti, beef.</item>
+        <item>Kedai soto yang berada di jalan Martadireja No.576 Purwokerto ini memiliki cita rasa yang unik. Dibilang unik karena saus yang digunakan terbuat dari kacang dan akan semakin nikmat bila disajikan dengan tauco.</item>
+        <item>Umaeh Inyong merupakan restoran Instagenic ala tradisional Banyumas. Tampak dari luar, resto dengan bangunan kuno ini sudah menampilkan konsep Banyumas yang kental dan didalam pun, suasana tempo ala dulu semakin kental. Menu yang ditawarkan adalah makanan khas Purwokerto, beberapa di antaranya adalah soto kriyik, mendoan, sega bandem, menu minuman es dawet begalan, wedang badeg, kopi Banyumas, dan lain-lain. Hal yang menjadi istimewa adalah Umaeh Inyong melibatkan koki asli dari Banyumas agar rasanya selalu terjamin dan tidak berubah-ubah. Untuk menunya tidak terlalu menguras kantong, karena hanya perlu mengeluarkan uang sebesar Rp4.000 hingga Rp160 ribu untuk menu paket.</item>
+        <item>Cafe satu ini sangat cocok digunakan untuk santai sambil menunggu klien penting maupun menunggu pasangan yang sedang berbelanja. Lokasinya Buntos Cafe sendiri berada di area teras Rita Supermall yang beroperasi mulai pukul setengah sepuluh pagi sampai 1 malam. cafe ini tersedia sajian minuman dan makanan ringan sambil menikmati pemandangan dari alun-alun Purwokerto serta Gunung Slamet.</item>
+        <item>Waroeng Pisa termasuk warung yang laris dan legendaris di daerah Purwokerto. Tak hanya menyediakan berbagai menu yang modern dan menggugah selera, Waroeng Pisa juga menawarkan nuansa makan sekaligus bisa ngerasain alaminya udara di sekitar warung ini. Waroeng Pisa sendiri banyak yang mengartikan dengan unik yakni Warung Kopi Pinggir Sawah. Itu karena lokasinya yang berdekatan dengan sawah. Penyajian di Waroeng Pisa ini terhitung cukup cepat, yang disajikan yaitu menu ala-ala Western seperti Pizza, ditambah lagi dengan pelayanannya yang sangat ramah.</item>
+        <item>Warunk Upnormal merupakan tempat nongkrong atau hangout kekinian untuk para anak muda. Tempatnya ada di dekat area kampus UNSOED. Tempatnya dikemas dengan unik dan hampir dipastikan semua pengunjung akan mengambil foto atau selfie disini. Fasilitas ekstranya juga bikin betah, ada beberapa mainan, wifi, dan ruang private yang mungkin cocok untuk meeting juga dan khusus perokok juga disediakan ruang smoking. Soal menu dan harga, Warunk Upnormal memberikan banyak sekali pilihan kreasi menunya dengan harga masuk akal dan yan pasti tidak menguras kantong mahasiswa.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://lh3.ggpht.com/p/AF1QipM9WVTOrT0nWhYPFMW_x6-t4Yii8HZvLslelVgR=s512</item>
+        <item>https://www.jogjaday.com/wp-content/uploads/2019/08/Seafood-Haji-Sholeh-Purwokerto-@seafood.hajisholeh.gif</item>
+        <item>https://lh3.ggpht.com/p/AF1QipM7ZrPVUupE6Ak5bZMdJbUxmXiUpSDEsN7b2kmQ=s512</item>
+        <item>https://djabesmen.co.id/wp-content/uploads/2021/07/ora_umum_1.png</item>
+        <item>https://res.cloudinary.com/purnama/images/w_524,h_350,c_scale/f_auto,q_auto/v1587079293/Waroeng-Ndeso-1/Waroeng-Ndeso-1.jpg?_i=AA</item>
+        <item>https://lh5.googleusercontent.com/p/AF1QipMUskOAdjg-i0N03nfxBhbcX5NU7WNUwClrqR7k=w408-h306-k-no</item>
+        <item>https://lh3.ggpht.com/p/AF1QipMu_2OpAwGrmKwbxKyJP_b34uFcoRYONZTxEW8r=s512</item>
+        <item>https://10619-2.s.cdn12.com/rests/original/109_509487147.jpg</item>
+        <item>https://lh3.ggpht.com/p/AF1QipP_5gS7GIC7m-QTLMxRiO__VLSZdHab37SxzvV5=s512</item>
+        <item>https://lh5.googleusercontent.com/p/AF1QipNDhMX32_U9kNV1j9e8XV2-bFFWqJsGepESEZ3s=s516-k-no</item>
+    </string-array>
+    <string-array name="data_lat">
+        <item>-7.398134707665401</item>
+        <item>-7.408056</item>
+        <item>-7.418962696650239</item>
+        <item>-7.4154444</item>
+        <item>-7.3214424376333875</item>
+        <item>-7.422900460535133</item>
+        <item>-7.412521690989184</item>
+        <item>-7.386839955502269</item>
+        <item>-7.421932047720001</item>
+        <item>-7.405133364959861</item>
+    </string-array>
+    <string-array name="data_lang">
+        <item>109.24628677468371</item>
+        <item>109.236825</item>
+        <item>109.25145931761563</item>
+        <item>109.2541631</item>
+        <item>109.236492068336</item>
+        <item>109.2531625543662</item>
+        <item>109.23045191253037</item>
+        <item>109.2293299789686</item>
+        <item>109.2717897455791</item>
+        <item>109.24512542944643</item>
+    </string-array>
+
+
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
